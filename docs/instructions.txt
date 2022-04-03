@@ -1,0 +1,15 @@
+Create accounts:
+https://www.meteor.com/cloud
+https://github.com/
+
+Install:
+https://nodejs.org/en/
+https://chrome.google.com/webstore/detail/meteor-devtools-evolved/ibniinmoafhgbifjojidlagmggecmpgf?hl=en
+https://nosqlbooster.com
+https://desktop.github.com
+https://code.visualstudio.com
+npm install -g meteor
+
+Add / Remove packages:
+meteor remove insecure
+meteor remove autopublish
